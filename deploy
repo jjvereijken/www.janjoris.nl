@@ -1,0 +1,13 @@
+#!/bin/sh
+#
+# Time-stamp: <File deploy saved at 23:03:24 CEST on Saturday 2018-07-21, by janjoris on suus.>
+#
+
+REPDIR=/remote/nfs1/data/rep/www.janjoris.nl
+WWWDIR=/var/www/www.janjoris.nl
+
+cd $REPDIR/root
+
+ssh wales.lan rm -rf $WWWDIR/\*
+
+tar cz . | ssh wales.lan tar xvz --directory $WWWDIR

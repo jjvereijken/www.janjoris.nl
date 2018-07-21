@@ -1,0 +1,6 @@
+We introduce an ACP-style discrete-time process algebra with relative
+timing, that features the empty process. Extensions to this algebra
+are described, and ample attention is paid to the considerations and
+problems that arise when introducing the empty process. We prove time
+determinacy, soundness, completeness, and the axioms of standard
+concurrency.

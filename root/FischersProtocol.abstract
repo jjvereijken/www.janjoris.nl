@@ -1,0 +1,19 @@
+Timed algebraic process theories can be developed with quite different
+purposes in mind. One can aim for theoretical results about the theory
+itself (completeness, expressiveness, decidability), or one can aim
+for practical applicability to non-trivial protocols. Unfortunately,
+these aims do not go well together. In this paper we take two
+theories, which are probably of the first kind, and try to find out
+how well suited they are for practical verifications.
+
+We verify Fischer's protocol for mutual exclusion in the settings of
+discrete-time process algebra (ACPdt) and real-time process algebra
+(ACPur). We do this by transforming the recursive specification into
+an equivalent linear specification, and then dividing out the maximal
+bisimulation relation. The required mutual exclusion result can then
+be found by reasoning about the obtained process graph.
+
+Finally, we consider the ease of the verification, and ways to adapt
+the theory to make it more practical. It will turn out that the
+theories investigated are quite unsatisfactory when verifying
+real-life protocols.

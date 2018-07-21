@@ -1,0 +1,6 @@
+We prove soundness and completeness for some ACP-style concrete,
+relative-time, discrete-time process algebras. We treat non-delayable
+actions, delayable actions, and immediate deadlock. Basic process
+algebras are examined extensively, and also some concurrent process
+algebras are considered. We conclude with ACPdrt, which combines all
+described features in one theory.
