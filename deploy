@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Time-stamp: <File deploy saved at 10:43:01 CEST on Tuesday 2018-07-31, by janjoris on sinclair.>
+# Time-stamp: <File deploy saved at 11:18:01 CEST on Tuesday 2018-07-31, by janjoris on sinclair.>
 #
 
 REPDIR=/remote/nfs1/data/rep/www.janjoris.nl
@@ -8,8 +8,19 @@ WWWDIR=/var/www/www.janjoris.nl
 
 cd $REPDIR/root
 
-chmod -R u=rwX,go=rX .
+# clean out WWWDIR
 
 ssh wales.lan rm -rf $WWWDIR/\*
 
+# make files globally readable
+
+chmod -R u=rwX,go=rX .
+
+# tar up and send to Wales
+
 tar cz . | ssh wales.lan tar xvz --directory $WWWDIR
+
+# restore permissions again
+
+chmod -R u=rwX,g=rwX,o= .
+
