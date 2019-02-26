@@ -1,0 +1,1993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<Layer IX="0">
+				<Name></Name>
+				<NameUniv></NameUniv>
+				<Visible>0</Visible>
+			</Layer>
+			<Layer IX="1">
+				<Name></Name>
+				<NameUniv></NameUniv>
+				<Visible>0</Visible>
+			</Layer>
+			<Layer IX="2">
+				<Name>Connector</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{2BE94059-1AB1-4B19-8D36-733547E3FEB9}" Name="Modem" NameU="Modem" Master="4">
+					<XForm>
+						<PinX Unit="MM">7.204724409448819</PinX>
+						<PinY Unit="MM">7.401574803149607</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="8" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="9" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="10" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="11" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="12" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="4" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="5" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="6" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="7" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="10" UniqueID="{E9ED6507-C803-4F89-8C66-2FBFD0CDC78D}" Name="Switch" NameU="Switch" Master="6">
+					<XForm>
+						<PinX Unit="MM">7.231189851268591</PinX>
+						<PinY Unit="MM">5.807086614173230</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="8" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="9" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="10" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="11" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="12" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="4" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="5" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="6" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="7" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="13" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="14" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="15" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="16" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="17" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="18" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="19" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="20" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="35" UniqueID="{CCDE361A-3BD0-4A2D-9BDF-E3E061A2E784}" Name="Switch.35" NameU="Switch.35" Master="6">
+					<XForm>
+						<PinX Unit="MM">2.152449693788276</PinX>
+						<PinY Unit="MM">5.807086614173230</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="8" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="9" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="10" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="11" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="12" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="4" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="5" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="6" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="7" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="13" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="14" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="15" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="16" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="17" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="18" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="19" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="20" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="60" UniqueID="{DED75B7D-005A-47A2-94F6-B6B412AEFC54}" Name="Server" NameU="Server" Master="7">
+					<XForm>
+						<PinX Unit="MM">1.601268591426071</PinX>
+						<PinY Unit="MM">4.527559055118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="10" Name="Department" NameU="Department">
+						<Value></Value>
+						<Label>Department</Label>
+					</Prop>
+					<Prop ID="5" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="6" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="7" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="8" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="9" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="1" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="2" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="3" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="4" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="11" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="12" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="13" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="14" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="15" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="16" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="17" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+					<Prop ID="24" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="18" Name="CPU" NameU="CPU">
+						<Value></Value>
+						<Label>CPU</Label>
+					</Prop>
+					<Prop ID="19" Name="Memory" NameU="Memory">
+						<Value></Value>
+						<Label>Memory</Label>
+					</Prop>
+					<Prop ID="20" Name="OperatingSystem" NameU="OperatingSystem">
+						<Value></Value>
+						<Label>Operating System</Label>
+					</Prop>
+					<Prop ID="25" Name="HardDriveSize" NameU="HardDriveSize">
+						<Value></Value>
+						<Label>Hard Drive Capacity</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="75" UniqueID="{CF74A795-8A82-4DA3-9046-78F052DD712C}" Name="Server.75" NameU="Server.75" Master="7">
+					<XForm>
+						<PinX Unit="MM">2.585520559930008</PinX>
+						<PinY Unit="MM">4.527559055118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="10" Name="Department" NameU="Department">
+						<Value></Value>
+						<Label>Department</Label>
+					</Prop>
+					<Prop ID="5" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="6" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="7" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="8" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="9" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="1" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="2" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="3" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="4" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="11" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="12" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="13" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="14" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="15" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="16" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="17" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+					<Prop ID="24" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="18" Name="CPU" NameU="CPU">
+						<Value></Value>
+						<Label>CPU</Label>
+					</Prop>
+					<Prop ID="19" Name="Memory" NameU="Memory">
+						<Value></Value>
+						<Label>Memory</Label>
+					</Prop>
+					<Prop ID="20" Name="OperatingSystem" NameU="OperatingSystem">
+						<Value></Value>
+						<Label>Operating System</Label>
+					</Prop>
+					<Prop ID="25" Name="HardDriveSize" NameU="HardDriveSize">
+						<Value></Value>
+						<Label>Hard Drive Capacity</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="90" UniqueID="{9C5D875A-D680-4881-8323-858CE3F7DB30}" Name="Server.90" NameU="Server.90" Master="7">
+					<XForm>
+						<PinX Unit="MM">5.144575678040243</PinX>
+						<PinY Unit="MM">4.527559055118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="10" Name="Department" NameU="Department">
+						<Value></Value>
+						<Label>Department</Label>
+					</Prop>
+					<Prop ID="5" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="6" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="7" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="8" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="9" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="1" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="2" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="3" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="4" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="11" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="12" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="13" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="14" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="15" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="16" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="17" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+					<Prop ID="24" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="18" Name="CPU" NameU="CPU">
+						<Value></Value>
+						<Label>CPU</Label>
+					</Prop>
+					<Prop ID="19" Name="Memory" NameU="Memory">
+						<Value></Value>
+						<Label>Memory</Label>
+					</Prop>
+					<Prop ID="20" Name="OperatingSystem" NameU="OperatingSystem">
+						<Value></Value>
+						<Label>Operating System</Label>
+					</Prop>
+					<Prop ID="25" Name="HardDriveSize" NameU="HardDriveSize">
+						<Value></Value>
+						<Label>Hard Drive Capacity</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="105" UniqueID="{7AB0D989-C87B-40FC-9219-9E33EFAB8049}" Name="Server.105" NameU="Server.105" Master="7">
+					<XForm>
+						<PinX Unit="MM">6.128827646544180</PinX>
+						<PinY Unit="MM">4.527559055118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="10" Name="Department" NameU="Department">
+						<Value></Value>
+						<Label>Department</Label>
+					</Prop>
+					<Prop ID="5" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="6" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="7" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="8" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="9" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="1" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="2" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="3" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="4" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="11" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="12" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="13" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="14" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="15" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="16" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="17" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+					<Prop ID="24" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="18" Name="CPU" NameU="CPU">
+						<Value></Value>
+						<Label>CPU</Label>
+					</Prop>
+					<Prop ID="19" Name="Memory" NameU="Memory">
+						<Value></Value>
+						<Label>Memory</Label>
+					</Prop>
+					<Prop ID="20" Name="OperatingSystem" NameU="OperatingSystem">
+						<Value></Value>
+						<Label>Operating System</Label>
+					</Prop>
+					<Prop ID="25" Name="HardDriveSize" NameU="HardDriveSize">
+						<Value></Value>
+						<Label>Hard Drive Capacity</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="120" UniqueID="{65C8D48E-A3B0-4093-B0EF-4F79E78C4954}" Name="Server.120" NameU="Server.120" Master="7">
+					<XForm>
+						<PinX Unit="MM">7.113079615048118</PinX>
+						<PinY Unit="MM">4.527559055118109</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="10" Name="Department" NameU="Department">
+						<Value></Value>
+						<Label>Department</Label>
+					</Prop>
+					<Prop ID="5" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="6" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="7" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="8" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="9" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="1" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="2" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="3" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="4" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="11" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="12" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="13" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="14" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="15" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="16" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="17" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+					<Prop ID="24" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="18" Name="CPU" NameU="CPU">
+						<Value></Value>
+						<Label>CPU</Label>
+					</Prop>
+					<Prop ID="19" Name="Memory" NameU="Memory">
+						<Value></Value>
+						<Label>Memory</Label>
+					</Prop>
+					<Prop ID="20" Name="OperatingSystem" NameU="OperatingSystem">
+						<Value></Value>
+						<Label>Operating System</Label>
+					</Prop>
+					<Prop ID="25" Name="HardDriveSize" NameU="HardDriveSize">
+						<Value></Value>
+						<Label>Hard Drive Capacity</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="135" UniqueID="{37A87341-25EC-4190-A27D-276C46261A1B}" Name="Server.135" NameU="Server.135" Master="7">
+					<XForm>
+						<PinX Unit="MM">8.097331583552055</PinX>
+						<PinY Unit="MM">4.527559055118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="10" Name="Department" NameU="Department">
+						<Value></Value>
+						<Label>Department</Label>
+					</Prop>
+					<Prop ID="5" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="6" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="7" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="8" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="9" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="1" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="2" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="3" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="4" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="11" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="12" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="13" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="14" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="15" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="16" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="17" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+					<Prop ID="24" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="18" Name="CPU" NameU="CPU">
+						<Value></Value>
+						<Label>CPU</Label>
+					</Prop>
+					<Prop ID="19" Name="Memory" NameU="Memory">
+						<Value></Value>
+						<Label>Memory</Label>
+					</Prop>
+					<Prop ID="20" Name="OperatingSystem" NameU="OperatingSystem">
+						<Value></Value>
+						<Label>Operating System</Label>
+					</Prop>
+					<Prop ID="25" Name="HardDriveSize" NameU="HardDriveSize">
+						<Value></Value>
+						<Label>Hard Drive Capacity</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="150" UniqueID="{8C58ADFB-7FAC-44ED-9FC3-28B56517BBCB}" Name="Server.150" NameU="Server.150" Master="7">
+					<XForm>
+						<PinX Unit="MM">9.081583552055992</PinX>
+						<PinY Unit="MM">4.527559055118111</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="10" Name="Department" NameU="Department">
+						<Value></Value>
+						<Label>Department</Label>
+					</Prop>
+					<Prop ID="5" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="6" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="7" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="8" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="9" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="1" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="2" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="3" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="4" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="11" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="12" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="13" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="14" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="15" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="16" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="17" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+					<Prop ID="24" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="18" Name="CPU" NameU="CPU">
+						<Value></Value>
+						<Label>CPU</Label>
+					</Prop>
+					<Prop ID="19" Name="Memory" NameU="Memory">
+						<Value></Value>
+						<Label>Memory</Label>
+					</Prop>
+					<Prop ID="20" Name="OperatingSystem" NameU="OperatingSystem">
+						<Value></Value>
+						<Label>Operating System</Label>
+					</Prop>
+					<Prop ID="25" Name="HardDriveSize" NameU="HardDriveSize">
+						<Value></Value>
+						<Label>Hard Drive Capacity</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="166" UniqueID="{DB3337E9-5A9B-4057-977D-C1B138407FCA}" Name="Dynamic connector.166" NameU="Dynamic connector.166" Master="0">
+					<XForm>
+						<PinX Unit="MM">4.649881571738510</PinX>
+						<PinY Unit="MM">5.831692913385828</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="167" UniqueID="{0B76E79B-3A7F-44DC-A6F4-12932C66F1CC}" Name="Dynamic connector.167" NameU="Dynamic connector.167" Master="0">
+					<XForm>
+						<PinX Unit="MM">1.875134921111688</PinX>
+						<PinY Unit="MM">5.361358888684386</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="168" UniqueID="{FC933B7D-D8EB-457E-8FE9-1D1BB545A2F0}" Name="Dynamic connector.168" NameU="Dynamic connector.168" Master="0">
+					<XForm>
+						<PinX Unit="MM">2.388670166229221</PinX>
+						<PinY Unit="MM">5.192115376211236</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="169" UniqueID="{3780D9EB-417C-4A75-9356-C77D78C33016}" Name="Dynamic connector.169" NameU="Dynamic connector.169" Master="0">
+					<XForm>
+						<PinX Unit="MM">8.344457098596649</PinX>
+						<PinY Unit="MM">5.259736701042216</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="170" UniqueID="{CF51A35A-D4AD-4C03-9B62-F790FC273446}" Name="Dynamic connector.170" NameU="Dynamic connector.170" Master="0">
+					<XForm>
+						<PinX Unit="MM">7.803572559405922</PinX>
+						<PinY Unit="MM">5.254320552175779</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="174" UniqueID="{E1DFFB42-DCA6-4516-8879-312DDD18F78D}" Name="Scanner" NameU="Scanner" Master="10">
+					<XForm>
+						<PinX Unit="MM">10.498906386701663</PinX>
+						<PinY Unit="MM">4.527559055118109</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="8" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="9" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="10" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="11" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="12" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="4" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="5" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="6" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="7" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="185" UniqueID="{14F99962-BC91-4446-8510-9DE2AE6F3C76}" Name="LCD monitor" NameU="LCD monitor" Master="11">
+					<XForm>
+						<PinX Unit="MM">2.644575678040245</PinX>
+						<PinY Unit="MM">3.149606299212598</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="8" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="9" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="10" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="11" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="12" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="4" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="5" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="6" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="7" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="13" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="14" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="15" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="16" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="17" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="18" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="19" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="20" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+					<Prop ID="21" Name="HardDriveSize" NameU="HardDriveSize">
+						<Value></Value>
+						<Label>Hard Drive Capacity</Label>
+					</Prop>
+					<Prop ID="22" Name="CPU" NameU="CPU">
+						<Value></Value>
+						<Label>CPU</Label>
+					</Prop>
+					<Prop ID="23" Name="Memory" NameU="Memory">
+						<Value></Value>
+						<Label>Memory</Label>
+					</Prop>
+					<Prop ID="24" Name="OperatingSystem" NameU="OperatingSystem">
+						<Value></Value>
+						<Label>Operating System</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="195" UniqueID="{B60171D2-F372-4537-BAC7-07ED042232EE}" Name="A/B switchbox" NameU="A/B switchbox" Master="12">
+					<XForm>
+						<PinX Unit="MM">6.857174103237094</PinX>
+						<PinY Unit="MM">3.011811023622047</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="8" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="9" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="10" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="11" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="12" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="4" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="5" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="6" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="7" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="13" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="14" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="15" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="16" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="17" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="18" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="19" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="20" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="207" UniqueID="{5FDB84FE-2E9D-410A-9044-53F713436E75}" Name="CRT monitor" NameU="CRT monitor" Master="13">
+					<XForm>
+						<PinX Unit="MM">6.955599300087489</PinX>
+						<PinY Unit="MM">1.673228346456693</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="8" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="9" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="10" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="11" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="12" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="4" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="5" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="6" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="7" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="13" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="14" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="15" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="16" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="17" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="18" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="19" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="20" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+					<Prop ID="21" Name="HardDriveSize" NameU="HardDriveSize">
+						<Value></Value>
+						<Label>Hard Drive Capacity</Label>
+					</Prop>
+					<Prop ID="22" Name="CPU" NameU="CPU">
+						<Value></Value>
+						<Label>CPU</Label>
+					</Prop>
+					<Prop ID="23" Name="Memory" NameU="Memory">
+						<Value></Value>
+						<Label>Memory</Label>
+					</Prop>
+					<Prop ID="24" Name="OperatingSystem" NameU="OperatingSystem">
+						<Value></Value>
+						<Label>Operating System</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="218" UniqueID="{94FE9770-E0DB-4B92-A08A-8BCFE5E3EBD3}" Name="CRT monitor.218" NameU="CRT monitor.218" Master="13">
+					<XForm>
+						<PinX Unit="MM">9.120953630796151</PinX>
+						<PinY Unit="MM">1.673228346456693</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="8" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="9" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="10" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="11" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="12" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="4" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="5" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="6" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="7" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="13" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="14" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="15" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="16" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="17" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="18" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="19" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="20" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+					<Prop ID="21" Name="HardDriveSize" NameU="HardDriveSize">
+						<Value></Value>
+						<Label>Hard Drive Capacity</Label>
+					</Prop>
+					<Prop ID="22" Name="CPU" NameU="CPU">
+						<Value></Value>
+						<Label>CPU</Label>
+					</Prop>
+					<Prop ID="23" Name="Memory" NameU="Memory">
+						<Value></Value>
+						<Label>Memory</Label>
+					</Prop>
+					<Prop ID="24" Name="OperatingSystem" NameU="OperatingSystem">
+						<Value></Value>
+						<Label>Operating System</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="229" UniqueID="{88D1E12C-DEAB-4F03-8E07-EFC74340C459}" Name="Dynamic connector.229" NameU="Dynamic connector.229" Master="0">
+					<XForm>
+						<PinX Unit="MM">6.011227623730552</PinX>
+						<PinY Unit="MM">3.556440354987753</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="230" UniqueID="{F6805CDF-E16C-4F9D-B75D-21FC915C8570}" Name="Dynamic connector.230" NameU="Dynamic connector.230" Master="0">
+					<XForm>
+						<PinX Unit="MM">6.454474440694911</PinX>
+						<PinY Unit="MM">3.706128430285948</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="232" UniqueID="{68D60EED-EE8B-43A8-BA62-ECD88B9272D4}" Name="Dynamic connector.232" NameU="Dynamic connector.232" Master="0">
+					<XForm>
+						<PinX Unit="MM">7.804985176583670</PinX>
+						<PinY Unit="MM">3.487712155957287</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="233" UniqueID="{9BD18040-A48F-4974-BCE4-45336BC9AC5E}" Name="Dynamic connector.233" NameU="Dynamic connector.233" Master="0">
+					<XForm>
+						<PinX Unit="MM">7.019270220532778</PinX>
+						<PinY Unit="MM">2.317214857978807</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="234" UniqueID="{104DF718-546E-4C6C-8B95-ED7DC53B6A0A}" Name="Dynamic connector.234" NameU="Dynamic connector.234" Master="0">
+					<XForm>
+						<PinX Unit="MM">9.151591343873186</PinX>
+						<PinY Unit="MM">3.043409510698498</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="235" UniqueID="{5DB6AC24-E71F-4308-B75C-66CFBA020946}" Name="Dynamic connector.235" NameU="Dynamic connector.235" Master="0">
+					<XForm>
+						<PinX Unit="MM">9.862741278433944</PinX>
+						<PinY Unit="MM">4.625984251968504</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="236" UniqueID="{5A9D6660-6A5F-4843-95B5-8D9C5676FCAC}" Name="Dynamic connector.236" NameU="Dynamic connector.236" Master="0">
+					<XForm>
+						<PinX Unit="MM">2.703999849480301</PinX>
+						<PinY Unit="MM">3.757142493469595</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="237" UniqueID="{4DF45221-312D-4D2C-B601-9B29CEB42EFD}" Name="Sheet.237" NameU="Sheet.237">
+					<Text>Knorrie
+386 / Linux 2.0</Text>
+					<XForm>
+						<PinX Unit="MM">1.246937882764655</PinX>
+						<PinY Unit="MM">3.838582677165354</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="238" UniqueID="{7EF6DC80-98D8-4A0E-9F8A-297E46F891B6}" Name="Sheet.238" NameU="Sheet.238">
+					<Text>Snuggles
+P4 / Win XP Pro</Text>
+					<XForm>
+						<PinX Unit="MM">2.231189851268591</PinX>
+						<PinY Unit="MM">3.838582677165354</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="239" UniqueID="{CBCD2400-FBA4-40BE-8E2B-C9F717970672}" Name="Sheet.239" NameU="Sheet.239">
+					<Text>Meneerleeuw
+PII / Linux 2.2</Text>
+					<XForm>
+						<PinX Unit="MM">4.737970253718285</PinX>
+						<PinY Unit="MM">3.858267716535433</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="240" UniqueID="{45C51003-8398-457C-B569-1A24DE52BD70}" Name="Sheet.240" NameU="Sheet.240">
+					<Text>Byron
+K6 / Linux 2.4</Text>
+					<XForm>
+						<PinX Unit="MM">6.076552930883640</PinX>
+						<PinY Unit="MM">3.825896762904637</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="241" UniqueID="{E1856EEB-586A-4464-BB16-7CA72BEEFD18}" Name="Sheet.241" NameU="Sheet.241">
+					<Text>Bathbear
+Pent / OpenBSD 3.4</Text>
+					<XForm>
+						<PinX Unit="MM">7.743000874890638</PinX>
+						<PinY Unit="MM">3.838582677165354</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="231" UniqueID="{F02ECD26-11F0-4C70-A543-20E12F56EE6C}" Name="Dynamic connector.231" NameU="Dynamic connector.231" Master="0">
+					<XForm>
+						<PinX Unit="MM">7.186991975464552</PinX>
+						<PinY Unit="MM">3.588476601721689</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="242" UniqueID="{FF163027-D3C3-42AE-B6BA-05EDCA29D4A0}" Name="Sheet.242" NameU="Sheet.242">
+					<Text>Slaapkop
+PII / Linux 2.4</Text>
+					<XForm>
+						<PinX Unit="MM">6.823928258967627</PinX>
+						<PinY Unit="MM">3.838582677165354</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="243" UniqueID="{9AE626AA-F0AA-4DC7-B8F5-BC20C0AB9021}" Name="Sheet.243" NameU="Sheet.243">
+					<Text>Amy
+P4 / Win XP Pro</Text>
+					<XForm>
+						<PinX Unit="MM">8.727252843394574</PinX>
+						<PinY Unit="MM">3.838582677165354</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="245" UniqueID="{6751CF06-CF26-4F72-B0F0-D4D1C16D1E56}" Name="User" NameU="User" Master="14">
+					<XForm>
+						<PinX Unit="MM">1.870078740157480</PinX>
+						<PinY Unit="MM">2.283464566929134</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value></Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="3" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="4" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="5" Name="Department" NameU="Department">
+						<Value></Value>
+						<Label>Department</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="252" UniqueID="{EF982B6A-D038-43D8-A191-5890C6A4D152}" Name="User.252" NameU="User.252" Master="14">
+					<XForm>
+						<PinX Unit="MM">8.169291338582678</PinX>
+						<PinY Unit="MM">0.866141732283465</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value></Value>
+						<Label>Name</Label>
+					</Prop>
+					<Prop ID="2" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="3" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="4" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="5" Name="Department" NameU="Department">
+						<Value></Value>
+						<Label>Department</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="259" UniqueID="{914EDF44-86B6-4C89-85C1-E89B2BC8A9C3}" Name="Sheet.259" NameU="Sheet.259">
+					<Text>Tieleke</Text>
+					<XForm>
+						<PinX Unit="MM">2.755905511811023</PinX>
+						<PinY Unit="MM">2.054243219597550</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="260" UniqueID="{D407F45F-1A78-4AC7-A170-980607BE6030}" Name="Sheet.260" NameU="Sheet.260">
+					<Text>Jan Joris</Text>
+					<XForm>
+						<PinX Unit="MM">9.055118110236219</PinX>
+						<PinY Unit="MM">0.676290463692038</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="265" UniqueID="{CB7EB007-1FB6-4541-9CAE-C53217ED8CBB}" Name="Comm-link" NameU="Comm-link" Master="16">
+					<XForm>
+						<PinX Unit="MM">4.793307086614172</PinX>
+						<PinY Unit="MM">7.379921259842520</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="1" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="2" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="3" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="4" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="5" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="6" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="7" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="8" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="9" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="10" Name="Department" NameU="Department">
+						<Value></Value>
+						<Label>Department</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="165" UniqueID="{20ABD58E-9346-4378-A295-D825FCBB3C69}" Name="Dynamic connector" NameU="Dynamic connector" Master="0">
+					<XForm>
+						<PinX Unit="MM">7.091279149567164</PinX>
+						<PinY Unit="MM">6.644972954499599</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="266" UniqueID="{30A5C944-A5B9-4359-BE09-CDC9079D2419}" Name="Sheet.266" NameU="Sheet.266">
+					<Text>ADSL Modem</Text>
+					<XForm>
+						<PinX Unit="MM">8.819335083114609</PinX>
+						<PinY Unit="MM">7.105205599300087</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="244" UniqueID="{A41D5414-792A-433C-A319-514D10A06368}" Name="ATM router" NameU="ATM router" Master="18">
+					<XForm>
+						<PinX Unit="MM">2.165354330708661</PinX>
+						<PinY Unit="MM">7.381889763779527</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="8" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="9" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="10" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="11" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="12" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="4" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="5" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="6" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="7" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="13" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="14" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="15" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="16" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="17" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="18" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="19" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="20" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="271" UniqueID="{F7ED6DC9-3AF5-4EE4-B91D-CFC15E4AF8F8}" Name="Sheet.271" NameU="Sheet.271">
+					<Text>XS4ALL</Text>
+					<XForm>
+						<PinX Unit="MM">2.165354330708661</PinX>
+						<PinY Unit="MM">6.725284339457567</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="272" UniqueID="{503636A7-BC35-4D1B-BC1A-7A90E9FF4502}" Name="Sheet.272" NameU="Sheet.272">
+					<Text>2048/320 Kb/s ADSL</Text>
+					<XForm>
+						<PinX Unit="MM">5.511811023622046</PinX>
+						<PinY Unit="MM">7.086614173228345</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="273" UniqueID="{ADC8AA90-EB9D-482A-908F-BD1BB6B20B39}" Name="Sheet.273" NameU="Sheet.273">
+					<Text>10 Mb/s</Text>
+					<XForm>
+						<PinX Unit="MM">7.348643919510062</PinX>
+						<PinY Unit="MM">6.692913385826771</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="274" UniqueID="{CAAFE033-2D7C-4388-B40F-73A2772684BC}" Name="Sheet.274" NameU="Sheet.274">
+					<Text>100 Mb/s
+</Text>
+					<XForm>
+						<PinX Unit="MM">4.659230096237970</PinX>
+						<PinY Unit="MM">5.991251093613298</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="275" UniqueID="{DFB60DAB-F041-4D2E-9162-BB149BFF8363}" Name="Sheet.275" NameU="Sheet.275">
+					<Text>ScanJet</Text>
+					<XForm>
+						<PinX Unit="MM">10.472440944881889</PinX>
+						<PinY Unit="MM">4.048118985126860</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="276" UniqueID="{4F011068-DD0B-4C09-B23E-8B596D3EB55A}" Name="Printer" NameU="Printer" Master="19">
+					<XForm>
+						<PinX Unit="MM">4.409448818897638</PinX>
+						<PinY Unit="MM">2.283464566929134</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="8" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="9" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="10" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="11" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="12" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="4" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="5" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="6" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="7" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="13" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="14" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="15" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="16" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="17" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="18" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="19" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="20" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="290" UniqueID="{4CC9B4E8-2FBF-4B83-8A55-89BDE0DE8440}" Name="Printer.290" NameU="Printer.290" Master="19">
+					<XForm>
+						<PinX Unit="MM">5.275590551181102</PinX>
+						<PinY Unit="MM">2.283464566929134</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+					<Prop ID="8" Name="AssetNumber" NameU="AssetNumber">
+						<Value></Value>
+						<Label>Asset Number</Label>
+					</Prop>
+					<Prop ID="9" Name="SerialNumber" NameU="SerialNumber">
+						<Value></Value>
+						<Label>Serial Number</Label>
+					</Prop>
+					<Prop ID="10" Name="Location" NameU="Location">
+						<Value></Value>
+						<Label>Location</Label>
+					</Prop>
+					<Prop ID="11" Name="Building" NameU="Building">
+						<Value></Value>
+						<Label>Building</Label>
+					</Prop>
+					<Prop ID="12" Name="Room" NameU="Room">
+						<Value></Value>
+						<Label>Room</Label>
+					</Prop>
+					<Prop ID="4" Name="Manufacturer" NameU="Manufacturer">
+						<Value></Value>
+						<Label>Manufacturer</Label>
+					</Prop>
+					<Prop ID="5" Name="ProductNumber" NameU="ProductNumber">
+						<Value></Value>
+						<Label>Product Number</Label>
+					</Prop>
+					<Prop ID="6" Name="PartNumber" NameU="PartNumber">
+						<Value></Value>
+						<Label>Part Number</Label>
+					</Prop>
+					<Prop ID="7" Name="ProductDescription" NameU="ProductDescription">
+						<Value></Value>
+						<Label>Product Description</Label>
+					</Prop>
+					<Prop ID="13" Name="NetworkName" NameU="NetworkName">
+						<Value></Value>
+						<Label>Network Name</Label>
+					</Prop>
+					<Prop ID="14" Name="IPAddress" NameU="IPAddress">
+						<Value></Value>
+						<Label>IP Address</Label>
+					</Prop>
+					<Prop ID="15" Name="SubnetMask" NameU="SubnetMask">
+						<Value></Value>
+						<Label>Subnet Mask</Label>
+					</Prop>
+					<Prop ID="16" Name="AdminInterface" NameU="AdminInterface">
+						<Value></Value>
+						<Label>Administrative Interface</Label>
+					</Prop>
+					<Prop ID="17" Name="NumberofPorts" NameU="NumberofPorts">
+						<Value></Value>
+						<Label>Number of Ports</Label>
+					</Prop>
+					<Prop ID="18" Name="MACAddress" NameU="MACAddress">
+						<Value></Value>
+						<Label>MAC Address</Label>
+					</Prop>
+					<Prop ID="19" Name="CommunityString" NameU="CommunityString">
+						<Value></Value>
+						<Label>Community String</Label>
+					</Prop>
+					<Prop ID="20" Name="NetworkDescription" NameU="NetworkDescription">
+						<Value></Value>
+						<Label>Network Description</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="304" UniqueID="{1630DBDC-142A-4FEF-9CE2-E8DA9CC0DA74}" Name="Dynamic connector.304" NameU="Dynamic connector.304" Master="0">
+					<XForm>
+						<PinX Unit="MM">5.309351956005498</PinX>
+						<PinY Unit="MM">3.284448420520304</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="305" UniqueID="{9B9789D2-9066-40CF-8916-35283AA2B71B}" Name="Dynamic connector.305" NameU="Dynamic connector.305" Master="0">
+					<XForm>
+						<PinX Unit="MM">4.902217474935614</PinX>
+						<PinY Unit="MM">3.332172837447557</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="306" UniqueID="{4B608C68-BE67-4DE1-AC12-659EB8B66758}" Name="Sheet.306" NameU="Sheet.306">
+					<Text>DeskJet</Text>
+					<XForm>
+						<PinX Unit="MM">4.395888013998251</PinX>
+						<PinY Unit="MM">1.699912510936133</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="307" UniqueID="{6867ECA3-9363-4C5A-B4E7-1A36EF6D8850}" Name="Sheet.307" NameU="Sheet.307">
+					<Text>LaserJet</Text>
+					<XForm>
+						<PinX Unit="MM">5.340769903762030</PinX>
+						<PinY Unit="MM">1.699912510936133</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="308" UniqueID="{EAA9A75C-EE61-4539-A617-BA4C6C9CAC1F}" Name="Sheet.308" NameU="Sheet.308">
+					<Text>8 port 100BaseTX switch</Text>
+					<XForm>
+						<PinX Unit="MM">8.070866141732285</PinX>
+						<PinY Unit="MM">5.991251093613298</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="309" UniqueID="{0040FC38-0306-4B51-9755-D084CC7893AE}" Name="Sheet.309" NameU="Sheet.309">
+					<Text>5 port 100BaseTX switch</Text>
+					<XForm>
+						<PinX Unit="MM">2.887576552930883</PinX>
+						<PinY Unit="MM">6.016622922134732</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="310" UniqueID="{DE8C2F24-B412-4796-B505-094CBE76E2C8}" Name="Sheet.310" NameU="Sheet.310">
+					<Text>15" TFT</Text>
+					<XForm>
+						<PinX Unit="MM">2.677165354330709</PinX>
+						<PinY Unit="MM">2.519685039370079</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="311" UniqueID="{491041A8-C246-4779-864C-84F8B610A0AE}" Name="Sheet.311" NameU="Sheet.311">
+					<Text>4 port KVM switch</Text>
+					<XForm>
+						<PinX Unit="MM">7.781714785651793</PinX>
+						<PinY Unit="MM">2.552055993000875</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="312" UniqueID="{05726FA0-08D6-48FF-8EE5-16BFF2AE5614}" Name="Sheet.312" NameU="Sheet.312">
+					<Text>17" CRT</Text>
+					<XForm>
+						<PinX Unit="MM">6.942257217847769</PinX>
+						<PinY Unit="MM">1.130139982502187</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="313" UniqueID="{C75333DF-821E-4C6D-B38F-5E9A369A0566}" Name="Sheet.313" NameU="Sheet.313">
+					<Text>19" CRT</Text>
+					<XForm>
+						<PinX Unit="MM">9.068678915135607</PinX>
+						<PinY Unit="MM">1.134733158355206</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="173" UniqueID="{9625F236-E662-4667-A08E-B27BA09C038B}" Name="Dynamic connector.173" NameU="Dynamic connector.173" Master="0">
+					<XForm>
+						<PinX Unit="MM">6.228965417571558</PinX>
+						<PinY Unit="MM">5.339278066684607</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="171" UniqueID="{D52A842B-7652-4C85-8AE4-14BED0CD8B6F}" Name="Dynamic connector.171" NameU="Dynamic connector.171" Master="0">
+					<XForm>
+						<PinX Unit="MM">7.338227073818872</PinX>
+						<PinY Unit="MM">5.266997186785864</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="172" UniqueID="{E23C4F6C-317C-4B8B-8D67-F163C56837DA}" Name="Dynamic connector.172" NameU="Dynamic connector.172" Master="0">
+					<XForm>
+						<PinX Unit="MM">6.793560625039275</PinX>
+						<PinY Unit="MM">5.296647486898817</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>2</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="314" UniqueID="{A568C0C8-76BB-48CB-8069-FCCD3431ADAB}" Name="Sheet.314" NameU="Sheet.314">
+					<Text>Home LAN
+V1.0 16-04-2004</Text>
+					<XForm>
+						<PinX Unit="MM">2.554586926634171</PinX>
+						<PinY Unit="MM">0.676290463692038</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
