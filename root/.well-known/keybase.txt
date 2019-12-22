@@ -1,0 +1,53 @@
+https://keybase.io/jjvereijken
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.janjoris.nl
+  * I am jjvereijken (https://keybase.io/jjvereijken) on keybase.
+  * I have a public key ASAZlO2obo56Eki3q2RJoqPeYAuhbWsQk7qejO366BwGowo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012003138957a38f7ab5c9b7cb06461fa4feab12eba6976d6827934458499c6a99450a",
+      "host": "keybase.io",
+      "kid": "01201994eda86e8e7a1248b7ab6449a2a3de600ba16d6b1093ba9e8cedfae81c06a30a",
+      "uid": "61b9ef7d20414548b75ebddac0a95a19",
+      "username": "jjvereijken"
+    },
+    "merkle_root": {
+      "ctime": 1577023959,
+      "hash": "eab3fe3e915004063ee533575929ab401d4abc9419fc7df779fce01f0dd8de8ecc2ec68a84381d51367ecd619c5ec75a22250ec017e0c6751a8751ce69f1c7ed",
+      "hash_meta": "1b2ea616bc1e82fd077cecea646c78d659a1b1d07d7aef7bc256c5b10d0bebe2",
+      "seqno": 13897758
+    },
+    "service": {
+      "entropy": "kJA9KnzMJVn0j3lylSTY6quV",
+      "hostname": "www.janjoris.nl",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1577024129,
+  "expire_in": 504576000,
+  "prev": "c4c07d42ddc0e967c4f400a9604ba3bafeb1d61eb8bb2b80a23b162426302f3f",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGZTtqG6OehJIt6tkSaKj3mALoW1rEJO6nozt+ugcBqMKp3BheWxvYWTESpcCFcQgxMB9Qt3A6WfE9ACpYEujuv6x1h64uyuAojsWJCYwLz/EIJnKzdUUJoBTNUpGVjDAO60GjhI4RYXq6luEJcAbM+OdAgHCo3NpZ8RAbkA3E/RNr4YhNh+N2LyR7mxvYU75NJS5WqQ/bIWCqblkiqPYDmItm1LQeyJbvpUIP/1u2Oy3FSXxwO80SbNYDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDle0T8PtTAj21CyIkNZTY/T4wud9K/YR/wNjybrmdMXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jjvereijken
