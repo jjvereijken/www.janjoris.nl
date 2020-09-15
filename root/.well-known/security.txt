@@ -1,0 +1,18 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:janjoris@acm.org
+Encryption: https://www.janjoris.nl/0xb5984f93.asc
+Preferred-Languages: en, nl
+Canonical: https://www.janjoris.nl/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEELUskPydZ1PZmzMGhjNWSQbWYT5MFAl9giI4ACgkQjNWSQbWY
+T5ObLgf/e7tcVa1ebpUT6Sd6nDFfvulv9pvnybiAikZoZuEhkIqQs3d3iOKoR293
+eh2ilmfq1uBXU9r31FmsV7Q9L6kjrGFbTt8awrghsL6HhJKON4Q/jj9Hzla4D3E6
+CsBrjUYkaTnY/4meiM9pgpC2MJ/UqGMEaobQsoi1/yc0YilIMTnWzvnlaEhP4zOJ
+g0akix19b5gALqHfJHYJ2oAUjID/DrxLD8XECKsi2f171pBcbcByd+76BYQtQ4Bg
+WgjSJ85z4me9Yy9vZ6We60yMQN0r+ktbpARfsHo8R1VK20iVTkDiH5UVh4bl9AXo
+df8naMmGNBtC9nSiupfRGhAAHgwTqA==
+=2zOS
+-----END PGP SIGNATURE-----
