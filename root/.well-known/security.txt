@@ -2,17 +2,23 @@
 Hash: SHA512
 
 Contact: mailto:janjoris@acm.org
-Encryption: https://www.janjoris.nl/0xb5984f93.asc
+Expires: 2034-01-04T00:00:00.000Z
+Encryption: https://www.janjoris.nl/0xD7432327-public.asc
 Preferred-Languages: en, nl
 Canonical: https://www.janjoris.nl/.well-known/security.txt
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEELUskPydZ1PZmzMGhjNWSQbWYT5MFAl9giI4ACgkQjNWSQbWY
-T5ObLgf/e7tcVa1ebpUT6Sd6nDFfvulv9pvnybiAikZoZuEhkIqQs3d3iOKoR293
-eh2ilmfq1uBXU9r31FmsV7Q9L6kjrGFbTt8awrghsL6HhJKON4Q/jj9Hzla4D3E6
-CsBrjUYkaTnY/4meiM9pgpC2MJ/UqGMEaobQsoi1/yc0YilIMTnWzvnlaEhP4zOJ
-g0akix19b5gALqHfJHYJ2oAUjID/DrxLD8XECKsi2f171pBcbcByd+76BYQtQ4Bg
-WgjSJ85z4me9Yy9vZ6We60yMQN0r+ktbpARfsHo8R1VK20iVTkDiH5UVh4bl9AXo
-df8naMmGNBtC9nSiupfRGhAAHgwTqA==
-=2zOS
+iQIzBAEBCgAdFiEENuLxmPEtrsYKUXlpLzT/UddDIycFAmZUjEkACgkQLzT/UddD
+IyebAw/+Nnr3oJOcGApZmX4Bnnjg+aVwYTMhdavaDTMGhZqo+GrWHn5n+Q/BUQD8
+BGSvj2LYtMy8u/0jQGuiZg9f5ez/SMcI++8X/8fm53boqdo9cYeZXwPHqwS9NvD/
+oe4JUwdsPjqVxBlaVwiur6LuwEUWAC6STHfh+7zc5lEF4Y3yBk3+tiHoHYCF8UbQ
+mjVXgt6npdgJsFoWVTdSDpcfoHD24u7lN6NDsgx5Sg1xGT4JnSSD1SGtRQwcyr90
+tM0ODOC4SnUAIMl57OOotWs9CsG/GZulbnYejKicFizz9tr45n5FVYq066SgQ1vU
+KKb/s8Wl+JSZYQTI6r+OmVXhNtU9JyulBrEJXvR9bU0iEeHUhigD+EKiLSULXJou
+zyukiG3v3BHT9icsFfsoldvBUyaQn8ro3qA4k/+kKvdfC3Y7NouiKkLQ4cZhDxtd
+RxDDKfAGA4C3QiBdEI7PzPaBP1tW8KKTbLkky5HR0hDjK/P9cLn6HzUUd4B7kcwW
+zjs7ETCukaLeXmd8dobNJ6ve3AN7oyhPZrev1RWCKUGg08aopJYqG3BdAudycY1U
+8AULRRgo+TZYPQy1oIf21ZN39lXnExOfFXizS8yBkDb10gpUQEgLZM2aRzDjR9eC
+4VZoWKL0JNuzaW6TAtQzNY4Xc7W1bLicSpaMaxkNhgBegnCXRrg=
+=XfT6
 -----END PGP SIGNATURE-----
